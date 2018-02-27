@@ -1,2 +1,2 @@
 # prac-for-mj
-some practice for mj
+some practices for mj
